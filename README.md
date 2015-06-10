@@ -82,3 +82,11 @@ Verifica che funzioni con `curl -i http://localhost/todolists/0`.  Deve restitui
     }
 
 (Nota che adesso lo status è "checked").
+
+# Bonus points
+
+Controlla che tutti gli errori siano gestiti correttamente:
+
+  * Parametro 'text' mancante
+  * Id non validi
+
